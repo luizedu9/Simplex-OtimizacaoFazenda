@@ -1,0 +1,9 @@
+Vender 5954 L de Leite
+Produzir 430 KG de Queijo
+Com o queijo produzido, é possivel gerar 21,5 KG de Manteiga
+Produzir 30 L de Iogurte
+Produzir 70 KG de Muçarela
+Produzir 20 KG de Doce de Leite
+Produzir 30 KG de Leite Condensado
+Produzir 25 KG de Requeijão
+Lucro Final = R$ 17201,80
